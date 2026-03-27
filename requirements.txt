@@ -1,0 +1,7 @@
+numpy
+opencv-python
+matplotlib
+seaborn
+tqdm
+scikit-learn
+joblib
